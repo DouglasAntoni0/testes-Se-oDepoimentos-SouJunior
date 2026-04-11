@@ -1,8 +1,18 @@
-# QA E2E Tests
+# 🚀 QA E2E Tests - SouJunior WebApp
 
-Este repositorio contem apenas a automacao E2E com Cypress e Playwright  do novo site da Sou Junior.
+Este repositório contém a automação de testes E2E (End-to-End) utilizando **Cypress** e **Playwright** para o novo site da **SouJunior**.
 
-O site nao faz parte deste projeto. A ideia e:
+## 🎯 Sobre o Projeto e Minha Atuação
+
+Este projeto é um **trabalho voluntário** desenvolvido de forma **100% autônoma** por mim. Tomei a iniciativa de estruturar toda esta suíte de testes com o intuito de colaborar ativamente com a equipe e com o projeto da SouJunior, garantindo a máxima qualidade no lançamento da plataforma e aliviando a carga mental do time.
+
+Construir esta arquitetura de testes do zero é uma forma valiosa que encontrei para aplicar na prática meus conhecimentos em Quality Assurance, demonstrar forte proatividade, autonomia e gerar impacto real. Estou utilizando essa experiência prática para expandir minha expertise na área de Q.A. (Quality Assurance) e testes automatizados, com o objetivo claro de comprovar meu valor e **conquistar uma oportunidade profissional no mercado de tecnologia**.
+
+---
+
+## 🏗️ Estrutura e Abordagem
+
+O código-fonte do site não faz parte deste repositório (desacoplamento). A estrutura de testes funciona da seguinte maneira:
 
 1. Subir o site localmente no repositorio principal.
 2. Abrir este repositorio em outra janela do VS Code.
