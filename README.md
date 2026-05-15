@@ -21,7 +21,7 @@
 
 ## 👤 Sobre o Autor e Motivação
 
-> **Douglas Antoni** — QA Engineer em formação, voluntário ativo na [SouJunior](https://soujunior.tech).
+> **Douglas Antoni** — QA Engineer formado, voluntário ativo na [SouJunior](https://soujunior.tech).
 
 Este projeto foi **concebido, arquitetado e desenvolvido integralmente por mim**, de forma **100% autônoma e voluntária**. Não recebi nenhum direcionamento prévio ou template — toda a suíte foi construída do zero, desde a definição da estratégia de testes até a implementação final.
 
