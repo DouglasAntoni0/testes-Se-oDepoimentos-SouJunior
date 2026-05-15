@@ -201,7 +201,7 @@ Os **testes unitários** e testes que dependem de acesso direto ao `src/` do pro
 
 ## 📫 Contato
 
-**Douglas Antoni** · QA Engineer
+**Douglas Antonio** · QA Engineer
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/douglas-antonio-qa/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DouglasAntoni0)
