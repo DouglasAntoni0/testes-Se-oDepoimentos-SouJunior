@@ -203,7 +203,7 @@ Os **testes unitários** e testes que dependem de acesso direto ao `src/` do pro
 
 **Douglas Antoni** · QA Engineer
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/douglas-antoni/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/douglas-antonio-qa/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DouglasAntoni0)
 [![Portfolio](https://img.shields.io/badge/Portfólio-000?style=for-the-badge&logo=netlify&logoColor=white)](https://douglasqa.netlify.app)
 
